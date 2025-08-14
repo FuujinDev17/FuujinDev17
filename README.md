@@ -46,3 +46,8 @@ fun main() {
 
 ## ```Status 🐾```
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Fuujin&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)
+
+## ```Quotes``` 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
