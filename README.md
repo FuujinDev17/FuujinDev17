@@ -17,6 +17,10 @@
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
 
 ------
+![Visitors](https://komarev.com/ghpvc/?username=Fuujin&color=blue&style=flat-square)
+
+------
+
 #### I'm currently learning:
 
 > * JavaScript
