@@ -11,7 +11,7 @@
 
 ## Spotify Music :
 <p align="center">
-  <a href="https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr?si=VXOwT7OsRbindHW3Rg9emg" target="_blank"><img src="https://spotify-now-playi.vercel.app/api/now-playing" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr?si=VXOwT7OsRbindHW3Rg9emg" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 > * 00:00 ━❍──────── 12:27 
 > * ↻ㅤㅤ⊲ㅤㅤⅡㅤㅤ⊳ㅤㅤ↺ㅤ
